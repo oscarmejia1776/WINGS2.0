@@ -4,7 +4,7 @@ import Box from '@mui/material/Box'
 import Typography from '@mui/material/Typography'
 import Avatar from '@mui/material/Avatar'
 import Search from './Search'
-import logo from '../assets/logo.svg'
+import logo from '../../gsu_eagle.png'
 
 function Header() {
   return (
